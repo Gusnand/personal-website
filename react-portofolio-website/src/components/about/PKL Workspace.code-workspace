@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "../../../../../training-mitrais/mitrais-dev-microservice-periodic-site"
+    },
+    {
+      "path": "../../../../../Studi Independen/Web"
+    },
+    {
+      "path": "../../../../../../../Users/gusna/Downloads/Compressed/bookshelf-apps/bookshelf-apps"
+    },
+    {
+      "path": "../../../.."
+    },
+    {
+      "path": "../../../../../training-mitrais/todo-list"
+    },
+    {
+      "path": "../../../../../auto-italic-foreign"
+    }
+  ],
+  "settings": {
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+  }
+}
